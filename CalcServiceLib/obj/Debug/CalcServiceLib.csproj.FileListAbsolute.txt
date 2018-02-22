@@ -1,0 +1,6 @@
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\bin\Debug\CalcServiceLib.dll.config
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\bin\Debug\CalcServiceLib.dll
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\bin\Debug\CalcServiceLib.pdb
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\obj\Debug\CalcServiceLib.dll
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\obj\Debug\CalcServiceLib.pdb
+C:\Users\Simrat\documents\visual studio 2015\Projects\CalcServiceLib\obj\Debug\CalcServiceLib.csprojResolveAssemblyReference.cache

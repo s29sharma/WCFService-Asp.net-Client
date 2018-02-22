@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="getDownPayment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PurchasePrice" type="xs:double" />
+        <xs:element minOccurs="0" name="PercentDown" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDownPaymentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getDownPaymentResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRemainingMortgage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PurchasePrice" type="xs:double" />
+        <xs:element minOccurs="0" name="PercentDown" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRemainingMortgageResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getRemainingMortgageResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MonthlyMortgage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PurchasePrice" type="xs:double" />
+        <xs:element minOccurs="0" name="PercentDown" type="xs:int" />
+        <xs:element minOccurs="0" name="Amortization" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MonthlyMortgageResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="MonthlyMortgageResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getMonthlyInterest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PurchasePrice" type="xs:double" />
+        <xs:element minOccurs="0" name="PercentDown" type="xs:int" />
+        <xs:element minOccurs="0" name="Amortization" type="xs:double" />
+        <xs:element minOccurs="0" name="Interest" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getMonthlyInterestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getMonthlyInterestResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

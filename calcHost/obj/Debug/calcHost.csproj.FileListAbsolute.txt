@@ -1,0 +1,8 @@
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\bin\Debug\calcHost.exe.config
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\bin\Debug\calcHost.exe
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\bin\Debug\calcHost.pdb
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\bin\Debug\CalcServiceLib.dll
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\bin\Debug\CalcServiceLib.pdb
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\obj\Debug\calcHost.csprojResolveAssemblyReference.cache
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\obj\Debug\calcHost.exe
+C:\Users\Simrat\documents\visual studio 2015\Projects\calcHost\obj\Debug\calcHost.pdb

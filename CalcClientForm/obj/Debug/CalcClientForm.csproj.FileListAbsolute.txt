@@ -1,0 +1,9 @@
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\bin\Debug\CalcClientForm.exe.config
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\bin\Debug\CalcClientForm.exe
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\bin\Debug\CalcClientForm.pdb
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.csprojResolveAssemblyReference.cache
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.Form1.resources
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.Properties.Resources.resources
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.csproj.GenerateResource.Cache
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.exe
+c:\users\simrat\documents\visual studio 2015\Projects\CalcClientForm\obj\Debug\CalcClientForm.pdb
